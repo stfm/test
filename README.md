@@ -1,10 +1,10 @@
 test
 ====
 
-![Test Image](/images/test.png)
+![Test Image](images/test.png)
 
-![Alt text](/images/test.png "Optional title1")
+![Alt text](images/test.png "Optional title1")
 
 ![](/images/test.png "Optional title2")
 
-[Image link](/images/test.png)
+[Image link](images/test.png)
